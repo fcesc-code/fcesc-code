@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=fcesc-code&count_private=true&show_icons=true&hide=contribs)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcesc-code&layout=compact)
+
 <!--
 **fcesc-code/fcesc-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
