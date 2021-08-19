@@ -5,7 +5,7 @@ Love coding.
 
 ### What is going on 
 
-- 🔭 I’m currently working on improving quiz app
+- 🔭 I’m currently working on improving [quiz app](https://github.com/fcesc-code/quiz)
 - 🌱 I’m currently learning Algorithms, reactive programming
 
 ### About my GitHub 
