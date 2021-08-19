@@ -1,5 +1,6 @@
 ### About me 👋
 Love coding.
+Code wars: ![Codewars](https://www.codewars.com/users/fcesc-code/badges/micro)
 
 ### What is going on 
 - 🔭 I’m currently working on improving quiz app
